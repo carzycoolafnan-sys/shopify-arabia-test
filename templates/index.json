@@ -1,17 +1,13 @@
-/*
- * ------------------------------------------------------------
- * IMPORTANT: The contents of this file are auto-generated.
- *
- * This file may be updated by the Shopify admin theme editor
- * or related systems. Please exercise caution as any changes
- * made to this file may be overwritten.
- * ------------------------------------------------------------
- */
 {
   "sections": {
+    "custom_banner": {
+      "type": "custom-banner",
+      "settings": {}
+    },
     "hero_jVaWmY": {
       "type": "hero",
       "name": "t:names.hero",
+
       "settings": {
         "media_type_1": "image",
         "image_1": "shopify://shop_images/Nomad_Banner_Nov_2025_V2_1ea26a61-df8f-498a-9227-733bc539144a.png",
@@ -1178,6 +1174,7 @@
     }
   },
   "order": [
+    "custom_banner",
     "hero_jVaWmY",
     "product_list_fa6P9H",
     "collection_list_VT8tmw",
